@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce-nodejs",
+  "version": "1.0.0",
+  "description": "ecommerce project using node js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "restful",
+    "api"
+  ],
+  "author": "Khorasani Abrar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.0"
+  },
+  "type": "module"
+}
